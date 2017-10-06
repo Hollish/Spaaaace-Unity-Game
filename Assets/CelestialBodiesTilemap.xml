@@ -1,0 +1,20 @@
+<tilemap tileswide="4" tileshigh="4" tilewidth="32" tileheight="32">
+  <layer number="0" name="Layer 0">
+    <tile x="0" y="0" index="0" rot="0" flipX="false"/>
+    <tile x="1" y="0" index="1" rot="0" flipX="false"/>
+    <tile x="2" y="0" index="2" rot="0" flipX="false"/>
+    <tile x="3" y="0" index="3" rot="0" flipX="false"/>
+    <tile x="0" y="1" index="4" rot="0" flipX="false"/>
+    <tile x="1" y="1" index="5" rot="0" flipX="false"/>
+    <tile x="2" y="1" index="6" rot="0" flipX="false"/>
+    <tile x="3" y="1" index="7" rot="0" flipX="false"/>
+    <tile x="0" y="2" index="8" rot="0" flipX="false"/>
+    <tile x="1" y="2" index="9" rot="0" flipX="false"/>
+    <tile x="2" y="2" index="10" rot="0" flipX="false"/>
+    <tile x="3" y="2" index="11" rot="1" flipX="false"/>
+    <tile x="0" y="3" index="12" rot="0" flipX="false"/>
+    <tile x="1" y="3" index="13" rot="0" flipX="false"/>
+    <tile x="2" y="3" index="14" rot="2" flipX="false"/>
+    <tile x="3" y="3" index="15" rot="3" flipX="false"/>
+  </layer>
+</tilemap>
